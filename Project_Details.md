@@ -2,8 +2,7 @@
 # 📊 Netflix Data Analysis Project
 
 ## 🔍 Overview  
-This project dives into a Netflix dataset to uncover meaningful patterns, trends, and insights about the platform’s content offerings. Leveraging Python and powerful data visualization libraries, we clean, process, and analyze the data to answer key business and viewer-related questions.
-
+In this project, a Netflix dataset is processed using Python for data wrangling and visualization. The goal is to identify content trends, genre distribution, and popularity metrics that provide actionable insights for both users and stakeholders.
 ---
 
 ## 🎯 Objectives  
