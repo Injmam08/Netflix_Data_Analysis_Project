@@ -36,4 +36,7 @@ This project explores and visualizes global Netflix content trends using an inte
 - TV Shows are rising faster than movies in the last 5 years.
 
 ---
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
 
